@@ -1,0 +1,1 @@
+This Inventory Management and Invoice Generating Software is developed using Microsoft Sql Server, c#.net, on Visual Studio. As the name suggest it can manage inventory and also it can generate bill as per input. 
